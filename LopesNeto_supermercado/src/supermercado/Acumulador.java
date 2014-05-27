@@ -3,6 +3,13 @@ package supermercado;
 /*
  * Classe utilitaria que realiza calculos de media aritmetica
  */
+
+/**
+ * 
+ * @author Eurico
+ *
+ */
+
 public class Acumulador {
   private double valor;
   private int contador;
