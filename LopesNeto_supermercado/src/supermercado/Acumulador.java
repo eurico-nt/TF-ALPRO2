@@ -7,6 +7,7 @@ package supermercado;
 /**
  * 
  * @author Eurico
+ * @author Daniel
  *
  */
 
