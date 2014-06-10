@@ -1,9 +1,16 @@
-package supermercado;
+package roleta;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+
+import supermercado.Acumulador;
+import supermercado.Caixa;
+import supermercado.Cliente;
+import supermercado.GeradorClientes;
+import supermercado.QueueLinked;
+import supermercado.QueueTAD;
 
 /**
  * Classe com a logica da simulacao passo-a-passo da roleta do estádio
